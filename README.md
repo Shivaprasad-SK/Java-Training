@@ -4,15 +4,7 @@ This repository contains structured day-wise practice on **Object-Oriented Progr
 
 ---
 
-## 📁 Folder Structure
-
-/DAY1 - OOP concepts: classes, objects, and constructors
-/DAY2 - Inheritance, overloading, overriding
-/DAY3 - Abstraction, interfaces, access modifiers
-/DAY4 - Polymorphism, encapsulation, modeling
-/Package - Java programs using packages and modular structure
-/Java Training Project - ⚡ Mini project: Java Swing + WebSocket Client-Server App
-/dbproject - JDBC-based database programs using MySQL
+<pre> ## 📁 Folder Structure ``` /DAY1 - OOP concepts: classes, objects, and constructors /DAY2 - Inheritance, overloading, overriding /DAY3 - Abstraction, interfaces, access modifiers /DAY4 - Polymorphism, encapsulation, modeling /Package - Java programs using packages and modular structure /Java Training Project - ⚡ Mini project: Java Swing + WebSocket Client-Server App /dbproject - JDBC-based database programs using MySQL ``` </pre>
 
 ---
 
