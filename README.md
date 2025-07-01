@@ -14,7 +14,6 @@ This repository contains structured day-wise practice on **Object-Oriented Progr
 /Java Training Project - ⚡ Mini project: Java Swing + WebSocket Client-Server App
 /dbproject - JDBC-based database programs using MySQL
 
-
 ---
 
 ## 🚀 Highlight: Java Training Project
