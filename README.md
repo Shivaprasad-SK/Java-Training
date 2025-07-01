@@ -77,10 +77,11 @@ Then run the client application:
 
     Practical use of AWT's Robot class for screen automation
 
-👨‍💻 Developed By
 
-Shivaprasad K
-🎓 MCA Graduate, St. St. Joseph Engineering College, Mangalore
-📍 Dakshina Kannada, Karnataka
-🧠 Passionate about Java, full-stack development, and real-time systems
-🔗 [https://www.linkedin.com/in/shivaprasad-sk/ | https://github.com/Shivaprasad-SK]
+## 👨‍💻 Developed By
+
+**Shivaprasad K**  
+🎓 BCA Graduate, St. Philomena College, Puttur  
+📍 Dakshina Kannada, Karnataka  
+🧠 Passionate about Java, full-stack development, and real-time systems  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
